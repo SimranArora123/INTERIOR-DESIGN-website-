@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(249, 242, 242);
+    
+
+}
+.jumbotron h1{
+    font-size: 40px;
+    
+}
+.jumbotron p{
+    font-size: 30px;
+}
